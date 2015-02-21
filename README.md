@@ -5,6 +5,16 @@
 |---------|---------|
 | [Craig](http://github.com/cfree) | Lead Developer |
 
+## Tools
+- [GitHub Wiki](https://github.com/denvercodeclub/group-project/wiki) for documentation
+- [Gitter Chat](https://gitter.im/denvercodeclub?utm_source=share-link&utm_medium=link&utm_campaign=share-link) for discussion
+    - Requires user be added to the [DCC Github organization](http://github.com/denvercodeclub)
+    - Requires [Gitter chat client](https://gitter.im)
+- [GitHub Issues](https://github.com/denvercodeclub/group-project/issues) for logging of bugs
+
+## Standards / Guides
+We will be following the [GitHub Flow workflow](https://guides.github.com/introduction/flow/)
+
 ## Task List
 - Management
     - Determine Project
