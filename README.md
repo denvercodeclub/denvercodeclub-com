@@ -1,7 +1,18 @@
 # Denver Code Club Group Project
 
 ## People Involved
-| Name | Role |
+We will need the following skill sets:
+- Developers
+    - PHP
+    - JavaScript / jQuery / AngularJS
+    - CSS
+    - HTML
+- Designers
+- QA
+
+If you are interested in being involved with the project, please create a pull request of this README document, adding yourself to the list below.
+
+| Name | Preferred Role |
 |---------|---------|
 | [Craig](http://github.com/cfree) | Lead Developer |
 
@@ -14,6 +25,15 @@
 
 ## Standards / Guides
 We will be following the [GitHub Flow workflow](https://guides.github.com/introduction/flow/)
+
+### Code Style Guides
+When we review pull requests, not only will we be checking for correct and efficient code, but we'll be comparing it against the appropriate style guides listed below. This way, we are all adhering to the same style.
+
+- [CSS](https://github.com/necolas/idiomatic-css)
+- [JavaScript](https://github.com/rwaldron/idiomatic.js)
+- [PHP](https://make.wordpress.org/core/handbook/coding-standards/php/)
+- [HTML](https://github.com/styleguide/templates)
+- [Angular](https://github.com/johnpapa/angularjs-styleguide)
 
 ## Task List
 - Management
