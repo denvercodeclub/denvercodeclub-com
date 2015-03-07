@@ -24,7 +24,7 @@ If you are interested in being involved with the project, please create a pull r
 
 ## Tools
 - [GitHub Wiki](https://github.com/denvercodeclub/group-project/wiki) for documentation
-- [Gitter Chat](https://gitter.im/denvercodeclub/group-project?utm_source=share-link&utm_medium=link&utm_campaign=share-link) for discussion [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denvercodeclub/group-project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- [Gitter Chat](https://gitter.im/denvercodeclub/denvercodeclub-com?utm_source=share-link&utm_medium=link&utm_campaign=share-link) for discussion [![Join the chat at https://gitter.im/denvercodeclub/denvercodeclub-com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denvercodeclub/denvercodeclub-com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
     - Requires user be added to the [DCC Github organization](http://github.com/denvercodeclub)
     - Requires [Gitter chat client](https://gitter.im)
 - [GitHub Issues](https://github.com/denvercodeclub/group-project/issues) for logging of bugs
