@@ -44,11 +44,10 @@ We will be following the [GitHub Flow workflow](https://guides.github.com/introd
     - [Needs Assessment / Discovery](https://github.com/denvercodeclub/denvercodeclub-com/wiki/Project-Discovery)
     - Determine Tech Stack
         - AngularJS
-        - Apache
         - Sass
             - Susy
         - jQuery
-        - Server ? Check w/ 
+        - Server (TBD)
             - Apache / MySQL / Laravel
             - Node.js / MongoDB / Express.js
     - Browser support matrix
@@ -63,7 +62,6 @@ We will be following the [GitHub Flow workflow](https://guides.github.com/introd
         - [HTML](https://github.com/styleguide/templates)
         - [Angular](https://github.com/johnpapa/angularjs-styleguide)
     - Create Vagrant development box
-        - .editorconfig
     - Create Site Map / Hierarchy
     - Development Plan
         - Features Breakdown
@@ -83,6 +81,7 @@ We will be following the [GitHub Flow workflow](https://guides.github.com/introd
 - Development
     - Project Setup
         - Git Repo
+        - .editorconfig
     - Markup (HTML)
     - Styles (CSS)
         - Style Guide / Kitchen Sink
