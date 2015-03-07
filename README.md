@@ -1,5 +1,7 @@
 # Denver Code Club Group Project
 
+[![Join the chat at https://gitter.im/denvercodeclub/denvercodeclub-com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denvercodeclub/denvercodeclub-com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## People Involved
 We will need the following skill sets:
 - Developers
