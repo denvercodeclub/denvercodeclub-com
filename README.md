@@ -38,20 +38,25 @@ When we review pull requests, not only will we be checking for correct and effic
 ## Task List
 - Management
     - Determine Project
+        - Determine Deliverables
         - Define Problem
         - Define Stakeholders
     - Needs Assessment / Discovery
     - Determine Tech Stack
+        - Browser support matrix
         - Determine style guides
         - Create Vagrant development box
     - Create Site Map / Hierarchy
     - Development Plan
+        - Features Breakdown
         - Content Checklist
-            - Who is providing content? API? RSS?
+            - Static? API? RSS?
         - Content Relationships
-            - Database Schema
+            - Entity-Relationaship Diagram / Database Schema
         - Estimates
-        - Determine sprint schedule
+            - Create tickets
+                - Keep track of time spent
+            - Determine sprint schedule
 - Design
     - Wireframes
     - Comps
@@ -64,11 +69,11 @@ When we review pull requests, not only will we be checking for correct and effic
         - Style Guide / Kitchen Sink
     - Functionality (jQuery)
     - Data
-        - Database Schema
     - Integrating Markup / Styles / Functionality w/ CMS, etc.
     - Testing
         - Unit tests
         - Provide test steps
+- Content Migration
 - QA
 - Launch
 - Group Review
