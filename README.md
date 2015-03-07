@@ -41,7 +41,7 @@ We will be following the [GitHub Flow workflow](https://guides.github.com/introd
             - Sponsors
             - New members
             - Current members
-    - Needs Assessment / Discovery
+    - [Needs Assessment / Discovery](https://github.com/denvercodeclub/denvercodeclub-com/wiki/Project-Discovery)
     - Determine Tech Stack
         - AngularJS
         - Apache
