@@ -18,7 +18,7 @@ If you are interested in being involved with the project, please create a pull r
 | [Crystal](http://github.com/battygrrl7) | AngularJS, help with design, serve, CSS/Sass |
 | [Sean](http://github.com/seansean11) | AngularJS, Laravel, help with design |
 | [Mike](http://github.com/circlesix) | Wireframes, HTML, CSS, JavaScript/jQuery, QA |
-| Mohammad | HTML, CSS |
+| Mohamad | HTML, CSS |
 | David | D3.js, JavaScript, HTML, CSS |
 | Alex | --- |
 
@@ -68,8 +68,8 @@ We will be following the [GitHub Flow workflow](https://guides.github.com/introd
     - Development Plan
         - Features Breakdown
         - Content Checklist
-            - Static? API? RSS?
-            - Meetup.com API
+            - [Meetup.com API](http://www.meetup.com/meetup_api/)
+            - Basic API via Laravel/MySQL or Express/MongoDB
         - Content Relationships
             - Entity-Relationaship Diagram / Database Schema
         - Estimates
