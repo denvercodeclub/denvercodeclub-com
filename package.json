@@ -1,0 +1,43 @@
+{
+  "name": "denvercodeclub-com",
+  "version": "0.1.0",
+  "description": "A website for the Denver Code Club.",
+  "dependencies": {
+    "gulp": "~3.8.11",
+    "gulp-util": "~3.0.4",
+    "which": "~1.0.9",
+    "gulp-compass": "~2.0.4",
+    "gulp-cache": "~0.2.8",
+    "gulp-changed": "~1.2.1",
+    "gulp-jshint": "~1.9.4",
+    "gulp-livereload": "~3.8.0",
+    "gulp-notify": "~2.2.0",
+    "gulp-bower": "0.0.10",
+    "map-stream": "~0.0.5",
+    "gulp-uglify": "~1.1.0",
+    "gulp-minify-css": "~1.0.0",
+    "gulp-concat": "~2.5.2",
+    "gulp-rename": "~1.2.0" ,
+    "express": "~4.12.3",
+    "body-parser": "~1.12.2",
+    "mongoose": "~4.0.1",
+    "nodemon": "~1.3.7"
+  },
+  "scripts": {
+    "watch": "node_modules/gulp/bin/gulp.js watch",
+    "build": "node_modules/gulp/bin/gulp.js build",
+    "install": "node_modules/gulp/bin/gulp.js install",
+    "serve": "node_modules/nodemon/bin/nodemon.js app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:denvercodeclub/denvercodeclub-com.git"
+  },
+  "author": "Craig Freeman",
+  "license": "GPL 2",
+  "bugs": {
+    "url": "https://github.com/denvercodeclub/denvercodeclub-com/issues"
+  },
+  "homepage": "https://github.com/denvercodeclub/denvercodeclub-com",
+  "private": true
+}

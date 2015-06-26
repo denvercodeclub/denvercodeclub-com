@@ -1,0 +1,18 @@
+{
+    "name": "denvercodeclub-com",
+    "authors": [
+      "Craig Freeman <craigfreeman@gmail.com> (http://craigfreeman.net)"
+    ],
+    "main": "public/assets/css/style.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "modernizr": "2.8.3",
+        "angular": "1.4.1",
+        "angular-new-router": "0.5.3"
+    },
+    "license": "GPL 2",
+    "private": true
+}
